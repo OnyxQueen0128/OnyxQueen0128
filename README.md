@@ -1,0 +1,4 @@
+- 👋🏾 Hi, I’m Lysandra/Liz!
+- 👀 I’m interested in Front-end and Web Development 👩🏾‍💻
+- 🌱 I’m currently learning React
+- 📫 How to reach me : https://www.linkedin.com/in/lysandrawj/?lipi=urn%3Ali%3Apage%3Ad_flagship3_search_srp_jobs%3BeMLqgzM5TJiGaECVhM5faA%3D%3D

@@ -1,4 +1,7 @@
-- 👋🏾 Hi, I’m Lysandra/Liz!
-- 👀 I’m interested in Front-end and Web Development 👩🏾‍💻
-- 🌱 I’m currently learning React
-- 📫 How to reach me : https://www.linkedin.com/in/lysandrawj
+<h1>👋🏾 Hi, I’m Lysandra/Liz!</h1>
+I’m a Front-end and web developer 👩🏾‍💻
+<br/>
+I’m looking for opportunities to be a part of an amazing tech team that I can contribute to and whom I can learn from 🤩
+<br/>
+<br/>
+Check out my portfolio: https://lysandra-codes.netlify.app/
